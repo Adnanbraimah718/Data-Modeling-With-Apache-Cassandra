@@ -28,7 +28,7 @@ A startup called Sparkify wants to analyze the data they've been collecting on s
 ## **Files**
 -----------------------------------------------------------------------------------------------------------------------------------
 
-#Project Structure
+# Project Structure
 
 * event_data - The directory of CSV files partitioned by date
 
